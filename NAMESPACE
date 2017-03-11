@@ -1,0 +1,7 @@
+S3method(print,VPdtw)
+S3method(plot,VPdtw)
+useDynLib(VPdtw)
+exportPattern(VPdtw,dilation,plot.VPdtw)
+import(stats)
+import(graphics)
+import(grDevices)

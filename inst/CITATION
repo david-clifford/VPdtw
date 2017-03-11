@@ -1,0 +1,40 @@
+citHeader("To cite VPdtw in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Variable Penalty Dynamic Time Warping Code for Aligning Mass Spectrometry Chromatograms in {R}",
+  author       = personList(as.person("David Clifford"),
+                   as.person("Glenn Stone")),
+  journal      = "Journal of Statistical Software",
+  year         = "2012",
+  volume       = "47",
+  number       = "8",
+  pages        = "1--17",
+  url          = "http://www.jstatsoft.org/v47/i08/",
+
+  textVersion  =
+  paste("David Clifford, Glenn Stone (2012).",
+        "Variable Penalty Dynamic Time Warping Code for Aligning Mass Spectrometry Chromatograms in R.",
+        "Journal of Statistical Software, 47(8), 1-17.",
+        "URL http://www.jstatsoft.org/v47/i08/.")
+)
+
+citEntry(entry = "Article",
+  title        = "Alignment Using Variable Penalty Dynamic Time Warping",
+  author       = personList(as.person("David Clifford"),
+  		   as.person("Glenn Stone"),
+  		   as.person("Ivan Montoliu"),
+  		   as.person("Serge Rezzi"),
+  		   as.person("Francois-Pierre Martin"),
+  		   as.person("Philippe Guy"),
+  		   as.person("Stephen Bruce"),
+  		   as.person("Sunil Kochhar")),
+  journal      = "Analytical Chemistry",
+  year         = "2009",
+  volume       = "81",
+  number       = "3",
+  pages        = "1000--1007",
+  
+  textVersion  =
+  paste("David Clifford, Glenn Stone, Ivan Montoliu, Serge Rezzi, Francois-Pierre Martin, Philippe Guy, Stephen Bruce, Sunil Kochhar (2009).",
+  	"Alignment Using Variable Penalty Dynamic Time Warping, 81(3), 1000-1007.")
+)
