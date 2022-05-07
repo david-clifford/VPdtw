@@ -1,7 +1,7 @@
 Package: VPdtw
 Type: Package
 Title: Variable Penalty Dynamic Time Warping
-Version: 2.1-12
+Version: 2.1-13
 Date: 2017-03-05
 Author: David Clifford, Glenn Stone
 Maintainer: David Clifford <David.Clifford+CRAN@gmail.com>
